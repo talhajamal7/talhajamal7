@@ -19,16 +19,6 @@ LinkedIn: https://linkedin.com/in/talhajamal7
 
 ---
 
-## Popular repositories
-
-### HospitalManagmentSystem
-A Hospital Management System built with Java.
-
-### local_repo
-Basic HTML local repository project.
-
-### talhauni-demo
-This is my first repo.
 
 ---
 
