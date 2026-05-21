@@ -21,11 +21,10 @@ LinkedIn: https://linkedin.com/in/talhajamal7
 ---
 
 ## About Me
-Software Engineering Student
-Based in Islamabad, Pakistan
-PenTest Cyber Specialist
-Oracle Associate Architect
-Python Developer
-
+- 🎓 Software Engineering Student
+- 🌍 Based in Islamabad, Pakistan
+- 🛡️ PenTest Cyber Specialist
+- ☁️ Oracle Associate Architect
+- 🐍 Python Developer
 ---
 
