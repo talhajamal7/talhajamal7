@@ -13,7 +13,6 @@ I'm Talha Jamal.
 
 ## Quick links
 
-Portfolio: coming soon  
 LinkedIn: https://linkedin.com/in/talhajamal7
 
 ---
@@ -26,7 +25,7 @@ LinkedIn: https://linkedin.com/in/talhajamal7
 - 🌍 Based in Islamabad, Pakistan
 - 💻 Interested in Python Development & DevOps
 - 🎓 Software Engineering Student
-- 🚀 Currently learning backend development and cloud technologies
+- 🚀 Backend development and cloud technologies
 
 ---
 
