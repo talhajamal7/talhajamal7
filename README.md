@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**talhajamal7/talhajamal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Talha Jamal.
 
-Here are some ideas to get you started:
+> I'm a 6th Semester Software Engineering student at Foundation University Islamabad, Pakistan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I've previously completed internship experience and I'm passionate about Python Development and DevOps.
+
+## Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,react,linux,git,github,vscode" />
+</p>
+
+## Quick links
+
+Portfolio: coming soon  
+LinkedIn: https://linkedin.com/in/talhajamal7
+
+---
+
+## Popular repositories
+
+### HospitalManagmentSystem
+A Hospital Management System built with Java.
+
+### local_repo
+Basic HTML local repository project.
+
+### talhauni-demo
+This is my first repo.
+
+---
+
+## About Me
+
+- 🌍 Based in Islamabad, Pakistan
+- 💻 Interested in Python Development & DevOps
+- 🎓 Software Engineering Student
+- 🚀 Currently learning backend development and cloud technologies
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talhajamal7&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhajamal7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhajamal7&layout=compact&theme=tokyonight" />
+</p>
