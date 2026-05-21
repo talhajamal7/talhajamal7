@@ -3,8 +3,7 @@
 I'm Talha Jamal.
 
 > I'm a 6th Semester Software Engineering student at Foundation University Islamabad, Pakistan.
-
-> I've previously completed internship experience and I'm passionate about Python Development and DevOps.
+> I've previously completed internship at TechMaze Nexus and I'm passionate about Python Development and Devops.
 
 ## Languages and Tools:
 
@@ -31,11 +30,6 @@ LinkedIn: https://linkedin.com/in/talhajamal7
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhajamal7&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhajamal7&theme=tokyonight" />
