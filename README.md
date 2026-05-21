@@ -29,11 +29,3 @@ LinkedIn: https://linkedin.com/in/talhajamal7
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhajamal7&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhajamal7&layout=compact&theme=tokyonight" />
-</p>
