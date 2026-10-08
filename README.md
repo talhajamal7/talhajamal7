@@ -2,7 +2,7 @@
 
 I'm Talha Jamal.
 
-> I'm a 6th Semester Software Engineering student at Foundation University Islamabad, Pakistan.
+> I'm a 7th Semester Software Engineering student at Foundation University Islamabad, Pakistan.
 > I've previously completed internship at TechMaze Nexus and I'm passionate about Python Development and Devops.
 
 ## Languages and Tools:
